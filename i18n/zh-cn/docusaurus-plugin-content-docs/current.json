@@ -14,5 +14,13 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Test": {
+    "message": "Test",
+    "description": "The label for category Test in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Test.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Test in sidebar tutorialSidebar"
   }
 }
