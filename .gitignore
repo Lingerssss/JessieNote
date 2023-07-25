@@ -20,3 +20,8 @@ yarn-debug.log*
 yarn-error.log*
 /.idea/.idea.JessieNote.dir/.idea/indexLayout.xml
 /.idea/.idea.JessieNote.dir/.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/JessieNote.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
